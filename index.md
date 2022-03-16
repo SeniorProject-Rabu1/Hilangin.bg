@@ -30,26 +30,24 @@ Berikut use case diagram yang digunakan pada website kami
 ### d. Functional requirements untuk use case yang telah dirancang
 |FR|Deskripsi|
 |----|----|
-|FR 1-OUT|Aplikasi menampilkan halaman masuk/daftar|
-|FR 2-IN|Pengguna masuk/daftar ke dalam aplikasi|
-|FR-3-PR|Aplikasi menyimpan data pengguna|
-|FR 4-OUT|Aplikasi menampilkan opsi menghilangkan background foto atau video|
-|FR 5-IN|Pengguna memilih opsi menghapus background foto|
-|FR 6-PR|Aplikasi memproses penghapusan foto/video|
-|FR 7-OUT|Aplikasi menampilkan screen untuk mengunggah foto|
-|FR 8-IN|Pengguna mengunggah foto|
-|FR 9-OUT|Aplikasi menampilkan screen untuk mengedit/menambahkan background foto|
-|FR 10-IN|Pengguna menambahkan/mengedit background foto|
-|FR 11-PR|Aplikasi memproses penambahan/pengeditan background foto/video|
-|FR 12-OUT|Pengguna mengunduh hasil foto yang telah diedit background-nya|
-|FR 13-IN|Pengguna memilih opsi menghapus background video|
-|FR 14-OUT|Aplikasi menampilkan screen untuk mengunggah video|
-|FR 15-IN|Pengguna mengunggah video|
-|FR 16-OUT|Aplikasi menampilkan screen untuk mengedit/menambahkan background video|
-|FR 17-IN|Pengguna menambahkan/mengedit background video|
-|FR 18-OUT|Pengguna mengunduh hasil video yang telah diedit background-nya|
-
-
+|FR 1-OUT|Aplikasi menampilkan halaman masuk/daftar.|
+|FR 2-IN|Pengguna masuk/daftar ke dalam aplikasi.|
+|FR-3-PR|Aplikasi menyimpan data pengguna.|
+|FR 4-OUT|Aplikasi menampilkan opsi menghilangkan background foto atau video.|
+|FR 5-IN|Pengguna memilih opsi menghapus background foto.|
+|FR 6-PR|Aplikasi memproses penghapusan foto/video.|
+|FR 7-OUT|Aplikasi menampilkan screen untuk mengunggah foto.|
+|FR 8-IN|Pengguna mengunggah foto.|
+|FR 9-OUT|Aplikasi menampilkan screen untuk mengedit/menambahkan background foto.|
+|FR 10-IN|Pengguna menambahkan/mengedit background foto.|
+|FR 11-PR|Aplikasi memproses penambahan/pengeditan background foto/video.|
+|FR 12-OUT|Pengguna mengunduh hasil foto yang telah diedit background-nya.|
+|FR 13-IN|Pengguna memilih opsi menghapus background video.|
+|FR 14-OUT|Aplikasi menampilkan screen untuk mengunggah video.|
+|FR 15-IN|Pengguna mengunggah video.|
+|FR 16-OUT|Aplikasi menampilkan screen untuk mengedit/menambahkan background video.|
+|FR 17-IN|Pengguna menambahkan/mengedit background video.|
+|FR 18-OUT|Pengguna mengunduh hasil video yang telah diedit background-nya.|
 
 
 ### e. Entity Relationship Diagram
