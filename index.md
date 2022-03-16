@@ -1,88 +1,71 @@
-## Hilangin.bg
+## Welcome to Hilangin.bg GitHub Pages
+Hilangin.bg adalah aplikasi web yang dapat menghilangkan background foto maupun video. Selain itu akan disediakan fitur untuk menggantikan background dengan template yang telah disediakan dan bisa menambahkan background yang diinginkan.
+____
+>Update : 16 Maret 2022
 
-Kelompok : HilanginKuy
-
-Ketua Kelompok: Handoko Wisnu Murti (19/444054/TK/49250)
-
-Anggota 1: Brandon Cynwell Pasaribu (19/444043/TK/49239)
-
-Anggota 2: Muhammad Fariz Al-Pasha (19/444061/TK/49257)
-
-Anggota 3: Gerrit Ezra Yudi Kairupan (19/446777/TK/49882)
-
-“Project Senior Project TI”
-
-Departemen Teknologi Elektro dan Teknologi Informasi 
-Fakultas Teknik
-Universitas Gadjah Mada
-
-Nama produk : hilangin.bg
-
-Jenis produk : Aplikasi Web
-
-Latar belakang & permasalahan : Dewasa ini, foto menjadi salah satu media yang penting dalam berbagai hal. Foto dapat menjadi syarat administratif dalam beberapa kegiatan yang harus melampirkan foto ataupun menjadi media formal untuk publik. Penggunaan foto formal sangat banyak, seperti sebagai persyaratan administratif untuk mengikuti beasiswa, pendaftaran sekolah/kuliah, pendaftaran lomba, dan masih banyak lagi. Namun, dewasa ini untuk mendapat foto formal yang tergolong baik cukup membutuhkan waktu dan biaya. Tidak jarang foto formal harus melakukan pemotretan di studio yang tentu membutuhkan waktu yang tidak sebentar dan biaya yang tidak sedikut. Foto formal dapat diedit langsung menggunakan software editing tetapi tidak dilakukannya tidak mudah, perlu mengedit secara manual sehingga membutuhkan waktu yang tidak sebentar. 
-
-Dengan melihat masalah tersebut terkait fitur untuk memudahkan perolehan gambar formal maka dibutuhkan sebuah platform yang dapat menyediakan layanan menghilangkan background gambar agar memperoleh gambar formal yang mudah dan gratis. hilangin.bg dapat menjadi solusi untuk mendapat foto formal atau video yang baik dan gratis, dimana hilangin.bg menggunakan konsep image processing dalam pengolahan citra gambarnya. 
-
-Rumusan Permasalahan : 
-Bagaimana mendapat foto formal yang baik dengan biaya dan effort yang sedikit dengan mudah?
-Bagaimana agar menghilangkan background foto dan video?
-Bagaimana mengganti background baik foto dan video dengan mudah?
-
-Ide dan Solusi : Membuat aplikasi web yang dapat menghilangkan background foto maupun video. selain itu akan disediakan fitur untuk menggantikan background dengan template yang telah disediakan dan bisa menambahkan background yang diinginkan. 
-
-Analisis kompetitor : 
-
-KOMPETITOR 1
-Nama : https://www.remove.bg/
-Jenis Kompetitor :Direct Competitors
-Jenis Produk :Aplikasi Web
-Target Customer : Anak Sekolahan, Mahasiswa, orang-orang yang masih awam editing
-Kelebihan : 
-Proses gampang dan cepat
-Hanya memasukkan gambar, langsung jadi
-
-Kekurangan : 
-Berbayar kalau mau HD
-Hasil kadang tidak sesuai ekspetasi (bagian yang tidak seharusnya terpotong, malah terpotong)
-
-Key Competitive Advantage & Unique Value :
-Cara pemakaian yang sangat mudah sehingga kerap dipakai oleh semua kalangan masyarakat, baik itu untuk studi maupun untuk pekerjaan.
+## Metodologi SDLC
+Metodologi yang digunakan:
+```markdown
+Methodology Agile Development 
+```
+Alasan pemilihan metodologi
+```markdown
+Metodologi agile membutuhkan waktu pengembangan yang relatif lebih cepat dan tidak membutuhkan resource yang terlalu besar. Selain itu, dari sudut pandang pengguna, metodologi agile lebih adaptif ketika terdapat umpan balik dari pengguna sehingga bisa bisa langsung diperbaiki. Pengembangan yang dilakukan pada metodologi agile terfokus pada fitur-fitur prioritas terlebih dahulu sehingga tim pengembang pun bisa lebih nyaman dan fokus dalam proses pengembangannya. 
+```
+## Perancangan Tahap 1-3 SDLC
+### a. Tujuan dari produk
+```markdown
+Tujuan dari produk Hilangin.bg adalah untuk menghilangkan background foto atau video. Background foto atau video yang telah dihilangkan juga bisa ditambahkan dengan template background baru sesuai keinginan. Tujuan lain dari produk ini adalah kecepatan waktu dalam menghilangkan background pada entitas yang diinginkan karena tidak memerlukan pengeditan yang rumit dan lama.
+```
+### b. Pengguna potensial dari produk dan kebutuhan para pengguna tersebut
+```markdown
+Pekerja Formal, Pelajar, Mahasiswa, Fresh Graduate, Desainer, dan pekerja kreatif.
+```
+### c. Use Case Diagram
+Berikut use case diagram yang digunakan pada website kami
+![UseCase](https://user-images.githubusercontent.com/83200319/158609932-89689e1e-6b6b-40be-8481-d96fb0b10b71.jpeg)
 
 
-KOMPETITOR 2
-Nama : Adobe Photoshop
-Jenis Kompetitor : Indirect Competitors
-Jenis Produk : Aplikasi Desktop
-Target Customer : Desainer foto, seniman grafis, fotografer
-Kelebihan : 
-Fitur yang dimiliki lengkap
-Preferensi warna sangat luas
 
-Kekurangan :
-Edit dilakukan secara manual dalam menghilangkan background
-Penggunaan memori cukup besar
-Pengguna harus berbayar
+### d. Functional requirements untuk use case yang telah dirancang
+|FR|Deskripsi|
+|----|----|
 
-Key Competitive Advantage & Unique Value :
-Penambahan effect dalam gambar dan kebebasan dalam mengubah-ubah gambar sesuai keinginan
-
-
-KOMPETITOR 3
-Nama : https://www.unscreen.com/
-Jenis Kompetitor : Indirect Competitors
-Jenis Produk : Aplikasi Web
-Target Customer :Anak Sekolahan, Mahasiswa, orang-orang yang masih awam editing
-Kelebihan :
-Proses gampang dan cepat
-Hanya memasukkan video, langsung jadi
-
-Kekurangan : 
-Maksimal 5 Detik
-Ada Watermark
-Kualitas Rendah
-
-Key Competitive Advantage & Unique Value :
-Cara pemakaian yang sangat gampang sehingga kerap dipakai oleh semua kalangan masyarakat, baik itu untuk studi maupun untuk pekerjaan.
+|FR 1-OUT|Aplikasi menampilkan halaman masuk/daftar|
+|FR 2-IN|Pengguna masuk/daftar ke dalam aplikasi|
+|FR-3-PR|Aplikasi menyimpan data pengguna|
+|FR 4-OUT|Aplikasi menampilkan opsi menghilangkan background foto atau video|
+|FR 5-IN|Pengguna memilih opsi menghapus background foto|
+|FR 6-PR|Aplikasi memproses penghapusan foto/video|
+|FR 7-OUT|Aplikasi menampilkan screen untuk mengunggah foto|
+|FR 8-IN|Pengguna mengunggah foto|
+|FR 9-OUT|Aplikasi menampilkan screen untuk mengedit/menambahkan background foto|
+|FR 10-IN|Pengguna menambahkan/mengedit background foto|
+|FR 11-PR|Aplikasi memproses penambahan/pengeditan background foto/video|
+|FR 12-OUT|Pengguna mengunduh hasil foto yang telah diedit background-nya|
+|FR 13-IN|Pengguna memilih opsi menghapus background video|
+|FR 14-OUT|Aplikasi menampilkan screen untuk mengunggah video|
+|FR 15-IN|Pengguna mengunggah video|
+|FR 16-OUT|Aplikasi menampilkan screen untuk mengedit/menambahkan background video|
+|FR 17-IN|Pengguna menambahkan/mengedit background video|
+|FR 18-OUT|Pengguna mengunduh hasil video yang telah diedit background-nya|
 
 
+
+
+### e. Entity Relationship Diagram
+
+![Entity Relationship Diagram](https://user-images.githubusercontent.com/83200319/158611971-346dbc04-539c-4cbd-94f1-65d81c6ffdf3.jpeg)
+
+
+### f. Low-Fedelity Wireframe
+
+![low fidelity](https://user-images.githubusercontent.com/83200319/158612586-21bdebbe-1b95-4fea-8e5b-a4a72487f3dc.jpeg)
+![low fidelityy](https://user-images.githubusercontent.com/83200319/158612710-a806552a-11f5-481a-9c6e-cba9aa266056.jpeg)
+
+
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
