@@ -32,7 +32,7 @@ Berikut use case diagram yang digunakan pada website kami
 |----|----|
 |FR 1-OUT|Aplikasi menampilkan halaman masuk/daftar.|
 |FR 2-IN|Pengguna masuk/daftar ke dalam aplikasi.|
-|FR-3-PR|Aplikasi menyimpan data pengguna.|
+|FR 3-PR|Aplikasi menyimpan data pengguna.|
 |FR 4-OUT|Aplikasi menampilkan opsi menghilangkan background foto atau video.|
 |FR 5-IN|Pengguna memilih opsi menghapus background foto.|
 |FR 6-PR|Aplikasi memproses penghapusan foto/video.|
