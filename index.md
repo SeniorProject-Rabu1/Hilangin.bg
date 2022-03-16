@@ -30,7 +30,6 @@ Berikut use case diagram yang digunakan pada website kami
 ### d. Functional requirements untuk use case yang telah dirancang
 |FR|Deskripsi|
 |----|----|
-
 |FR 1-OUT|Aplikasi menampilkan halaman masuk/daftar|
 |FR 2-IN|Pengguna masuk/daftar ke dalam aplikasi|
 |FR-3-PR|Aplikasi menyimpan data pengguna|
