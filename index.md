@@ -63,9 +63,3 @@ Berikut use case diagram yang digunakan pada website kami
 ![low fidelity](https://user-images.githubusercontent.com/83200319/158612586-21bdebbe-1b95-4fea-8e5b-a4a72487f3dc.jpeg)
 ![low fidelityy](https://user-images.githubusercontent.com/83200319/158612710-a806552a-11f5-481a-9c6e-cba9aa266056.jpeg)
 
-
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
