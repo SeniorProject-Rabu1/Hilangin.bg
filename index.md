@@ -63,3 +63,5 @@ Berikut use case diagram yang digunakan pada website kami
 ![low fidelity](https://user-images.githubusercontent.com/83200319/158612586-21bdebbe-1b95-4fea-8e5b-a4a72487f3dc.jpeg)
 ![low fidelityy](https://user-images.githubusercontent.com/83200319/158612710-a806552a-11f5-481a-9c6e-cba9aa266056.jpeg)
 
+### g. Gantt-Chart pengerjaan proyek dalam kurun waktu 1 semester
+![gantt chart](https://user-images.githubusercontent.com/83200319/158613088-0d3105ec-6fc3-4c02-9931-99509c2e4af1.jpeg)
