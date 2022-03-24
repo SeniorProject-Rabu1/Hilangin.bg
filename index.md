@@ -1,4 +1,18 @@
 ## Welcome to Hilangin.bg GitHub Pages
+
+## Informasi Kelompok
+
+**Proyek Senior TI**
+
+Kelompok **Hilangin.bg**
+
+|Nama|NIM|Peran|
+|---|---|---|
+|**Handoko Wisnu Murti (Ketua)**|**19/444054/TK/49250**|**Project Manager/AI Engineer**|
+|Brandon Cynwell Pasaribu|19/444043/TK/49239|Software Engineer Project Manager/AI Engineer|
+|Muhammad Fariz Al-Pasha|19/444061/TK/49257|Cloud Engineer|
+|Gerrit Ezra Yudi Kairupan|19/446777/TK/49882|UI/UX Designer/AI Engineer|
+___
 Hilangin.bg adalah aplikasi web yang dapat menghilangkan background foto maupun video. Selain itu akan disediakan fitur untuk menggantikan background dengan template yang telah disediakan dan bisa menambahkan background yang diinginkan.
 ____
 >Update : 16 Maret 2022
