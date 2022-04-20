@@ -18,11 +18,11 @@ ____
 >Update : 20 April 2022
 
 ## Penugasan Virtual Network dan Load Balancing
-Berikut skematik yang digunakan pada website kami
+### Berikut skematik yang digunakan pada website kami
 ![gambar skematik](https://user-images.githubusercontent.com/83200319/164254578-f74ef5b2-c996-4d7b-8409-28b9c8246766.jpeg)
 
-Paparan
-```markdown
+### Paparan
+
 Topologi jaringan pada project Hilangin.bg ini menampung beberapa komponen seperti : 
 - Virtual Network Private (Hilangin.bg-VNet) merupakan jaringan virtual yang menampun seluruh komponen yang terdapat dalam aplikasi. Komponen yang terdapat pada jaringan ini mencakup sebuah subnet yang berisi frontend dan backend aplikasi.
 - Dua virtual machine pada satu subnet, yaitu subnet Hilangin.bg-SubNet. Hilangin.bg-SubNet mempunyai dua virtual machine, yaitu hilangin-fe dan hilangin-be. Virtual machine hilangin-fe berfungsi untuk merepresentasikan bagian front-end, sedangkan virtual machine hilangin-be berguna untuk mengatur bagian back-end.
