@@ -123,3 +123,72 @@ nav ul li a:hover{
     color:#aaa;
     margin-bottom:0;
   }
+
+section {
+    margin: auto;
+    display: flex;
+    margin-bottom: 50px;
+}
+
+.kolom {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.kolom .deskripsi {
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'comic sans ms';
+    color: #364f6b;
+}
+
+.kolom .penjelasan{
+    font-family: 'comic sans ms';
+    color: #364f6b;
+    font-weight: 200px;
+    font-size: 15px;
+    margin-bottom: 30px;
+}
+
+h2 {
+    font-family: 'comic sans ms';
+    font-weight: 800;
+    font-size: 45px;
+    margin-bottom: 20px;
+    color: #364f6b;
+    width: 100%;
+    line-height: 50px;
+}
+
+.tengah {
+    text-align: center;
+    width: 100%;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.list-anggota {
+    width: 100%;
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.kartu-anggota {
+    width: 20%;
+    margin: 0 auto;
+}
+
+.kartu-anggota img {
+    width: 50%;
+    border-radius: 50%;
+}
+
+.kartu-anggota p {
+    font-family: 'comic sans ms';
+    font-weight: 800;
+    font-size: 25px;
+    text-align: center;
+    color: #364f6b;
+}
